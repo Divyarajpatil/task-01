@@ -1,4 +1,4 @@
-#SCT_TASK1
+#SCT_SD_TASK1
 TempConvProg(Task1)
 internship task at the Prodigy InfoTech.
 
