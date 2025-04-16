@@ -25,13 +25,9 @@ Tkinter:
 Python's standard GUI toolkit used to create the user interface.
 How to Use
 
-1. Clone the Repository:
- git clone https://github.com/utsavvachhani/temperature-conversion-program.git
-cd temperature-conversion-program
-
-2. Run the Program:
+1. Run the Program:
     python temperature_converter.py
-3. Use the Interface:
+2. Use the Interface:
 Add support for additional temperature scales.
 Implement advanced error handling and edge case management.
 Enhance the GUI with more interactive elements and improved aesthetics.
